@@ -9,6 +9,7 @@ out/
 
 # Docs
 docs/
+report_ii.md
 
 # Dotenv file
 .env
